@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.menu-bar {
+  display: flex;
+  justify-content: space-between;
+  background: #3c3a39;
+  height: 48px;
+  align-items: center;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+
+.name {
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  color: #fff;
+  padding-left: 24px;
+}
+
+.humburger {
+  padding-right: 24px;
+  color: white;
+}
+
+.intro-page {
+  display: flex;
+  flex-direction: column;
+  padding: 120px 24px;
+  gap: 12px;
+  background: #1c1a19;
+  background-image: url(./img/illustration-header-mobile.svg);
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  height: 455px;
+}
+
+.greeting {
+  font-family: 'Crete Round', serif;
+  font-size: 56px;
+  line-height: 64px;
+  color: #ff6b00;
+  width: 95%;
+}
+
+.job {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  color: #fff5e1;
+}
+
+.job-description {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #fff;
+}
+
+.social-links {
+  display: flex;
+}
+
+.link-image {
+  margin-left: 15px;
+}
