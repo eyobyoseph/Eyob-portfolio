@@ -73,8 +73,35 @@ In order to run this project you need:
 ### Setup
 
 Clone this repository to your desired folder:
+-Open terminal in Vscode
+-Navigate to the directory where you want to clone this repo.
+-create new directory
+-clone the repo using the command below
+
+
+### Install
+
+Install this project with:
+
+```
+Clone this repository to your desired folder:
 
 ``git clone `https://github.com/eyobyoseph/Eyob-portfolio.git`
+```
+Navigate to the folder
+```
+repo-name (Eyob_portfolio)
+```
+Checkout the branch
+```
+git checkout mobile
+```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Run tests
+
+To run tests, run the following command:
+npx stylelint "**/*.{css,scss}" in the terminal to check for linters errsor
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -91,7 +118,11 @@ Clone this repository to your desired folder:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+[🔭 Future Features](#future-features)
 
+- Project section
+-About myself section
+-Making responsive website
 
 <!-- CONTRIBUTING -->
 
