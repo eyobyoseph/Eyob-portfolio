@@ -44,11 +44,17 @@
 }
 
 .greeting {
-  font-family: 'Crete Round', serif;
+  width: 327px;
+  font-family: 'Crete Round', sans-serif;
+  font-weight: 400;
   font-size: 56px;
   line-height: 64px;
+  letter-spacing: 0.37px;
   color: #ff6b00;
-  width: 95%;
+}
+
+.span-text {
+  display: block;
 }
 
 .job {
