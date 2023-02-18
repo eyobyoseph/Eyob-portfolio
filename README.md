@@ -20,7 +20,7 @@
 
 # 📖 Eyob-portfolio-project: <a name="about-project"></a>
 
-> The so called Eyob portfolio project is created using pure Html5 and Css3. In this project I have added tool bar and  heading section from figma template two.
+> The so called Eyob portfolio project is created using pure Html5 and Css3. In this project I have added project and  about sections from figma template two.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -120,8 +120,8 @@ npx stylelint "**/*.{css,scss}" in the terminal to check for linters errsor
 
 [🔭 Future Features](#future-features)
 
-- Project section
--About myself section
+- Making website accesseable
+-Adding desktop version
 -Making responsive website
 
 <!-- CONTRIBUTING -->
