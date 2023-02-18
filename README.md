@@ -1,71 +1,129 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+<!-- TABLE OF CONTENTS -->
 
-# Portofolio setup and mobile first
+# 📗 Table of Contents
 
-> This project  creating Github repository, branches and github flows
-> set up a new repository and test linter create two sections of the mobile website using the template 
-## Built With
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Setup](#setup)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
-- HTML
-- CSS
-- Linters
+<!-- PROJECT DESCRIPTION -->
 
-## Live Demo (if available)
+# 📖 Eyob-portfolio-project: <a name="about-project"></a>
 
-[Live Demo Link](https://livedemo.com)
+> The so called Eyob portfolio project is created using pure Html5 and Css3. In this project I have added tool bar and  heading section from figma template two.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Getting Started
 
-To get a local copy up and running follow these simple example steps.
+<!-- BUILT WITH -->
+
+## 🛠 Built With <a name="built-with"></a>
+
+- Major languages: 
+    HTML, CSS3
+- Technologies used: 
+    Git, GitHub, Linters
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+ 
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+- Simple
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Link to deployed project.
+
+- [Live Demo Link]()
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
-- IDE(code editor) like: Vscode, Sublime, etc.
-- Git
+
+In order to run this project you need:
+
+- Git and Code editor.
+
 ### Setup
-1. Download the Zip file or clone the repo with:
-`git clone https://github.com/DamenaM/Portofolio.git`
-2. To access cloned directory run:
-`cd Portofolio`
-3. Open it with the live server
-### Install
-To install linters and other project's dependencies run:
-`npm install`
-### Usage
-For tracking linter errors locally you need to follow these steps:
 
-1. For tracking linter errors in HTML files run:
-`npx hint .`
-2. For tracking linter errors in CSS or SASS files run:
-`npx stylelint "\*_/_.{css,scss}"`
+Clone this repository to your desired folder:
+
+``git clone `https://github.com/eyobyoseph/Eyob-portfolio.git`
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Author
+<!-- AUTHORS -->
 
-👤 **Author**
+## 👥 Authors <a name="authors"></a>
 
-- GitHub: [@githubhandle](https://github.com/DamenaM)
-- Twitter: [@twitterhandle](https://twitter.com/DamenaM)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/DamenaM)
+👤 Eyob Getachew 
+
+- GitHub: [eyobyoseph](https://github.com/eyobyoseph)
+- Twitter: [@eyobyoseph1](https://twitter.com/eyobyoseph1)
+- LinkedIn: [Eyob Getachew](linkedin.com/in/eyob-yoseph-53ba27244)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 🤝 Contributing
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/DamenaM/Hello-Microverse/issues).
+Feel free to check the [issues page](https://github.com/eyobyoseph/Eyob-portfolio/issues).
 
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Thank You Microverse team that help me with the template of this project.
-- Thanks to everyone who will get time to check this code and suggest any issues
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 📝 License
+<!-- SUPPORT -->
 
-This project is [MIT](./MIT.md) licensed.
+## ⭐️ Show your support <a name="support"></a>
+
+> If you like this project please give a ⭐️ to this repository.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> I would like to thank [Microverseinc](https://github.com/microverseinc).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
