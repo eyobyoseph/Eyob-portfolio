@@ -18,7 +18,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Eyob-portfolio-project: <a name="about-project"></a>
+# 📖 Eyob-portfolio-project: <a name="contact-project"></a>
 
 > The so called Eyob portfolio project is created using pure Html5 and Css3. In this project I have added project and  about sections from figma template two.
 
@@ -54,7 +54,7 @@
 
 > Link to deployed project.
 
-- [Live Demo Link]()
+- [Live Demo Link](https://github.com/eyobyoseph/Eyob-portfolio/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
