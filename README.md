@@ -111,6 +111,7 @@ npx stylelint "**/*.{css,scss}" in the terminal to check for linters errsor
 ## 👥 Authors <a name="authors"></a>
 
 👤 Eyob Getachew 
+👤  joeveloper
 
 - GitHub: [eyobyoseph](https://github.com/eyobyoseph)
 - Twitter: [@eyobyoseph1](https://twitter.com/eyobyoseph1)
