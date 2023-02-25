@@ -407,7 +407,6 @@ body {
   color: white;
 }
 
-
 /* about section */
 
 .about-section {
@@ -566,7 +565,6 @@ ul {
   margin: 0 12px;
 }
 
-
 /* contact-section */
 
 #contact-text {
@@ -649,7 +647,6 @@ form button:hover {
   border-radius: 10px;
   margin-top: 23px;
 }
-
 
 /* desktop-version */
 
@@ -975,4 +972,3 @@ form button:hover {
     display: none;
   }
 }
-
