@@ -18,7 +18,6 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Eyob-portfolio-project: <a name="desktop version"></a>
 
 > The so called Eyob portfolio project is created using pure Html5 and Css3. In this project I have added desktop version from figma template two.
 
@@ -54,7 +53,7 @@
 
 > Link to deployed project.
 
-- [Live Demo Link]()
+- [Live Demo Link](https://github.com/eyobyoseph/Eyob-portfolio/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,6 +110,7 @@ npx stylelint "**/*.{css,scss}" in the terminal to check for linters errsor
 ## 👥 Authors <a name="authors"></a>
 
 👤 Eyob Getachew 
+👤  joeveloper
 
 - GitHub: [eyobyoseph](https://github.com/eyobyoseph)
 - Twitter: [@eyobyoseph1](https://twitter.com/eyobyoseph1)
@@ -155,6 +155,9 @@ Feel free to check the [issues page](https://github.com/eyobyoseph/Eyob-portfoli
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
+
+ we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
