@@ -18,9 +18,8 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Eyob-portfolio-project: <a name="contact-project"></a>
 
-> The so called Eyob portfolio project is created using pure Html5 and Css3. In this project I have added project and  about sections from figma template two.
+> The so called Eyob portfolio project is created using pure Html5 and Css3. In this project I have added desktop version from figma template two.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -122,8 +121,8 @@ npx stylelint "**/*.{css,scss}" in the terminal to check for linters errsor
 [🔭 Future Features](#future-features)
 
 - Making website accesseable
--Adding desktop version
--Making responsive website
+-Making website interactive
+
 
 <!-- CONTRIBUTING -->
 
