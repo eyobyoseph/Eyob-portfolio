@@ -1,22 +1,40 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PORTFOLIO</title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="project.css">
-    <link rel="stylesheet" href="about.css">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Crete+Round&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="contact.css">
-    <link rel="stylesheet" href="desktop.css">
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>portfolio</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Crete+Round&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap" rel="stylesheet">
 </head>
 <body>
-
+  <header class="menu-bar">
+    <div><a class="name" href="#">Eyob yoseph</a></div>
+    <nav>
+      <img class="humburger" src="img/Icon - Menu.svg" alt="humburger icon">
+    </nav>
+  </header>
+  <main>
+    <section class="intro-page">
+     <h1 class="greeting"> Hey There.<span class="span-text">I’m Eyob</span></h1>
+     <h3 class="job">I’am a Software Developer</h3>
+     <p class="job-description">I can help you build a product , feature or website Look through some of my work and experience! If you like what you see and have a project you need coded, 
+      don’t hestiate to contact me.</p>
+      <ul class="social-links">
+        <li><a href="#"><img class="link-image" src="img/Frame.svg" alt="Github icon"></a></li>
+        <li><a href="#"><img class="link-image" src="img/Icon - Linkedin.svg" alt="Linkedin icon"></a></li>
+        <li><a href="#"><img class="link-image" src="img/angelist 1.svg" alt="Hand icon"></a></li>
+        <li><a href="#"><img class="link-image" src="img/Icon - Twitter.svg" alt="Twitter icon"></a></li>
+        <li><a href="#"><img class="link-image" src="img/Icon - Medium.svg" alt="Medium icon"></a></li>
+      </ul>
+    </section>
+    <div class="recent-div">
         <h1 class="recent">My Recent Works</h1>
         <img id="mobile-line" src="img/Vector-mobile.svg" alt="">
         <img id="desktop-line" src="img/Vector-desktop.svg" alt="">
@@ -189,6 +207,32 @@
           </li>
         </ul>
     </section>
-
+  </main>
+  <footer id="footer-contact">
+    <section id="contact-form">
+      <p id="contact-text">I'm always interested in hearing about new projects, so if you'd like to chat please get in touch.</p>
+      <form action="https://formspree.io/f/mnqreoov" method="post">
+        <div id="input-name" class="input-wrapper">
+          <input type="text" required  maxlength="30" placeholder="Full Name">
+        </div>
+        <div id="input-email" class="input-wrapper">
+          <input type="email" name="email" required placeholder="Email Adress">
+        </div>
+        <textarea required name="message" id="" cols="30" rows="10" maxlength="500" placeholder="Enter text here"></textarea>
+        <center><button class="btn" type="submit" id="action">Get in touch</button></center>
+      </form>
+    </section>
+    <section id="social-links">
+      <ul class="social-links">
+        <li><a href="#"><img class="link-image" src="img/Github.svg" alt="Github icon"></a></li>
+        <li><a href="#"><img class="link-image" src="img/LinkedIn.svg" alt="Linkedin icon"></a></li>
+        <li><a href="#"><img class="link-image" src="img/Hand.svg" alt="Hand icon"></a></li>
+        <li><a href="#"><img class="link-image" src="img/Twitter.svg" alt="Twitter icon"></a></li>
+        <li><a href="#"><img class="link-image" src="img/M.svg" alt="Medium icon"></a></li>
+      </ul>
+      <div class="social-bottom-line">
+      </div>
+    </section>
+  </footer>
 </body>
 </html>
